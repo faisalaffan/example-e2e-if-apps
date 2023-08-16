@@ -1,0 +1,1 @@
+adb -s "99d0ef23" shell dumpsys window windows
