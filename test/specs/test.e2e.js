@@ -20,6 +20,7 @@ describe('Intro Screen Test', () => {
         await introPage.nextButton("Berhasil Screenshot Intro ke 1", "1");
         await introPage.nextButton("Berhasil Screenshot Intro ke 2", "2");
         await introPage.nextButton("Berhasil Screenshot Intro ke 3", "3");
+        await introPage.nextButton("Berhasil Screenshot Intro ke 4", "4");
     })
     it('page authentication', async () => {
         const authenticationPage = new AuthenticationPage();

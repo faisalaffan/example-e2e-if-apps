@@ -1,0 +1,8 @@
+{
+  "appium:platformName": "Android",
+  "appium:platformVersion": "12",
+  "appium:automationName": "UIAutomator2",
+  "appium:deviceName": "99d0ef23",
+  "appium:appPackage": "com.btpns.individualfinancing.dev",
+  "appium:appActivity": "com.btpns.individualfinancing.MainActivity"
+}
